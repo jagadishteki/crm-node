@@ -19,10 +19,10 @@ app.get('/', (req, res) => {
 // });
 
 const db = mysql.createConnection({
-  host: "sql302.infinityfree.com",
-  user: "if0_36254526",
-  password: "4OYbCDbKBz5uStb",
-  database: "if0_36254526_school"
+  host: "103.171.180.10",
+  user: "jeelaka1_quadone",
+  password: "Quad@0208",
+  database: "jeelaka1_school"
 });
 
 db.connect((error)=>{
