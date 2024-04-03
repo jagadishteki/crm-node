@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
 const db = mysql.createConnection({
   host: "sql302.infinityfree.com",
   user: "if0_36254526",
-  password: "Teki@1976",
+  password: "4OYbCDbKBz5uStb",
   database: "if0_36254526_school"
 });
 

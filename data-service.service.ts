@@ -9,6 +9,6 @@ export class DataServiceService {
   constructor() { }
 
   getStudents() {
-    return this.http.get('http://localhost:3000/api/students')
+    return this.http.get('https://crm-node-da4h.onrender.com/api/students')
   }
 }
