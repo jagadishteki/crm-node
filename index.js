@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 // });
 
 const db = mysql.createConnection({
-  host: "103.171.180.10",
+  host: "jeelakarrabellam.com",
   user: "jeelaka1_quadone",
   password: "Quad@0208",
   database: "jeelaka1_school"
